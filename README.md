@@ -2,8 +2,8 @@
 # WordGame
 #five letter word that you guess letter by letter.
 ##Wordle
-##psudocode
-##W = wordlist(random)
+psudocode
+W = wordlist(random)
 print(“Press any letter to start”)
 While letterpressed = false
 Return
